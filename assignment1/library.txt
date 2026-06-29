@@ -1,0 +1,90 @@
+[Book]
+ID: 1
+Title: Some book
+Author: Some author
+Year: 1560
+Pages: 12
+Genre: fantasy
+Status: Available
+Late fee per day: 0.50 GEL
+
+[Book]
+ID: 2
+Title: Harry Potter
+Author: Juan Rowling
+Year: 2004
+Pages: 412
+Genre: fantasy
+Status: Available
+Late fee per day: 0.50 GEL
+
+[Book]
+ID: 3
+Title: Thus spoke Zaratustra
+Author: Niezsche
+Year: 1884
+Pages: 754
+Genre: poetry
+Status: Available
+Late fee per day: 0.50 GEL
+
+[Magazine]
+ID: 4
+Title: Some magazine
+Author: Some publisher
+Year: 2006
+Issue number: 12
+Month: 1
+Status: Available
+Late fee per day: 0.30 GEL
+
+[Magazine]
+ID: 5
+Title: Cool magazine
+Author: Cool publisher
+Year: 2008
+Issue number: 123
+Month: 9
+Status: Available
+Late fee per day: 0.30 GEL
+
+[DVD]
+ID: 6
+Title: Terminator
+Author: James Cameron
+Year: 1986
+Duration: 85
+Age rating: 18
+Status: Available
+Late fee per day: 1.00 GEL
+
+[DVD]
+ID: 7
+Title: Alien
+Author: Ridley Scott
+Year: 1982
+Duration: 82
+Age rating: 18
+Status: Available
+Late fee per day: 1.00 GEL
+
+[Research paper]
+ID: 8
+Title: Research paper about pychology
+Author: Smart guy
+Year: 2010
+DOI: 10.1038/psy12345
+Journal/conference: psychology journal
+Status: Available
+Late fee per day: 0.20 GEL
+
+[Research paper]
+ID: 9
+Title: Research about nature
+Author: Another smart guy
+Year: 1956
+DOI: 10.1038/nature12345
+Journal/conference: nature journal
+Status: Available
+Late fee per day: 0.20 GEL
+
